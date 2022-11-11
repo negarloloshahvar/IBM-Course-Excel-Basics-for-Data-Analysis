@@ -1,5 +1,21 @@
 # IBM-Course-Excel-Basics-for-Data-Analysis
 
+## Week 1
+
+**Learning Objectives**
+- Describe the fundamentals of a spreadsheet application.
+- Access Excel on the Web.
+- Navigate around an Excel worksheet and workbook.
+
+## Week 2
+
+**Learning Objectives**
+- View, enter, and edit data in a worksheet.
+- Move, copy, and fill data in a worksheet.
+- Describe the fundamentals of formulas.
+- List some of the common functions used by a data analyst.
+- Reference data in formulas.
+
 ## Week 3
 
 **Learning Objectives**
