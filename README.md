@@ -21,6 +21,12 @@
 **Learning Objectives**
 
 - Explain the importance of data quality.
+    - 5 Traits of good data:
+        - Accuracy
+        - Completeness
+        - Timliness
+        - Reliability
+        - Relevance
 - Import file data in to Excel.
 - Describe the fundamentals of data privacy.
 - Remove duplicate data, inaccurate data, and empty rows in Excel.
