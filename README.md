@@ -29,6 +29,10 @@
         - Relevance
 - Import file data in to Excel.
 - Describe the fundamentals of data privacy.
+    - Fundamentals of Data Privacy:
+        - Confidentiality
+        - Collection and Use
+        - Compliance
 - Remove duplicate data, inaccurate data, and empty rows in Excel.
 - Resolve inconsistencies in data.
 - Manipulate and standardize data using the Flash Fill and Text to Columns features in Excel.
