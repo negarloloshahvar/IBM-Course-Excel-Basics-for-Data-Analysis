@@ -31,6 +31,9 @@
 - Describe the fundamentals of data privacy.
     - Fundamentals of Data Privacy:
         - Confidentiality
+            - PI
+            - PII
+            - SPI
         - Collection and Use
         - Compliance
 - Remove duplicate data, inaccurate data, and empty rows in Excel.
