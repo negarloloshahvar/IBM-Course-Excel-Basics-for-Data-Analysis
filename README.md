@@ -36,6 +36,9 @@
             - SPI
         - Collection and Use
             - GDPR
+            - LGPD
+            - CCPA
+            - HIPAA
         - Compliance
 - Remove duplicate data, inaccurate data, and empty rows in Excel.
 - Resolve inconsistencies in data.
