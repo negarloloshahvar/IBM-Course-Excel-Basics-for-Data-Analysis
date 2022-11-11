@@ -49,3 +49,14 @@
     - You can use the Flash Fill and Text to Columns features in Excel to manipulate and standardize your data, and functions can also be used to help manipulate and   standardize your data. 
 - Resolve inconsistencies in data.
 - Manipulate and standardize data using the Flash Fill and Text to Columns features in Excel.
+
+## Week 4:
+
+**Learning Objectives**
+
+- Describe the fundamentals of analyzing data using a spreadsheet
+- Filter and sort data in a worksheet.
+- Employ some of the most useful Excel functions for data analysis.
+- Implement the VLOOKUP and HLOOKUP functions to reference data.
+- Create pivot tables in Excel.
+- Utilize pivot table features.
