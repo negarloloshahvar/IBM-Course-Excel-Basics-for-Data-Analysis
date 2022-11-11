@@ -35,6 +35,7 @@
             - PII
             - SPI
         - Collection and Use
+            - GDPR
         - Compliance
 - Remove duplicate data, inaccurate data, and empty rows in Excel.
 - Resolve inconsistencies in data.
