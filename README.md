@@ -1,6 +1,6 @@
 # IBM-Course-Excel-Basics-for-Data-Analysis
 
-** Week 3
+## Week 3
 
 **Learning Objectives**
 
