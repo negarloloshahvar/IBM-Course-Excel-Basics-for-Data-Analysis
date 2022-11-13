@@ -67,3 +67,10 @@
 - Implement the VLOOKUP and HLOOKUP functions to reference data.
 - Create pivot tables in Excel.
 - Utilize pivot table features.
+    -Format data as a table
+    - Create a Pivot Table and use fields to arrange data in a Pivot Table
+    - Perform calculations using Pivot Table data
+    - Use the Recommended Charts feature (does not work with the 'Basic' Office for the web plan.)
+    - Use the Filters feature
+    - Use the Slicers feature
+    - Use the Timelines feature
