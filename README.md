@@ -63,6 +63,7 @@
         - Logical
         - Financial
         - Date & Time
+     - Common functions for a data analyst include IF, IFS, COUNTIF, SUMIF, VLOOKUP, HLOOKUP.
 - Implement the VLOOKUP and HLOOKUP functions to reference data.
 - Create pivot tables in Excel.
 - Utilize pivot table features.
