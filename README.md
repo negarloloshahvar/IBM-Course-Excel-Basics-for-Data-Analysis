@@ -75,11 +75,16 @@
     - Use the Slicers feature
     - Use the Timelines feature
     
-## Week 5:
+## Week 5: Final Project
 **Learning Objectives**
 
 - Demonstrate hands-on skills to clean, prepare, and analyze data for a business scenario.
 - Apply data cleansing and analysis techniques in an Excel spreadsheet.
 - Evaluate the data analysis project developed by your peers using the provided rubric and grading scheme
 
+**Part 1**
+
 In this final assigment, I will be following the scenario of a recently hired Junior Data Analyst in a local government office, who has been tasked with importing some data from another department which relates to inventory information about their fleet of vehicles. The data is in comma-separated value (CSV) format and the data also needs cleaning up before I can start to run any kind of analysis on it.
+
+**Part 2**
+In this final assigment, I will be following the scenario of a recently hired Junior Data Analyst in a local government office, who has been tasked with sorting and analyzing fleet inventory data that was previously imported and cleaned. I plan to use pivot tables to analyze the data in preparation for the results to be visualized in a dashboard and added to a data findings report later.
