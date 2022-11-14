@@ -74,3 +74,10 @@
     - Use the Filters feature
     - Use the Slicers feature
     - Use the Timelines feature
+    
+## Week 5:
+**Learning Objectives**
+
+- Demonstrate hands-on skills to clean, prepare, and analyze data for a business scenario.
+- Apply data cleansing and analysis techniques in an Excel spreadsheet.
+- Evaluate the data analysis project developed by your peers using the provided rubric and grading scheme
