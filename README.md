@@ -81,3 +81,5 @@
 - Demonstrate hands-on skills to clean, prepare, and analyze data for a business scenario.
 - Apply data cleansing and analysis techniques in an Excel spreadsheet.
 - Evaluate the data analysis project developed by your peers using the provided rubric and grading scheme
+
+In this final assigment, I will be following the scenario of a recently hired Junior Data Analyst in a local government office, who has been tasked with importing some data from another department which relates to inventory information about their fleet of vehicles. The data is in comma-separated value (CSV) format and the data also needs cleaning up before I can start to run any kind of analysis on it.
